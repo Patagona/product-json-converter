@@ -1,0 +1,11 @@
+[package]
+name = "convert_products_json"
+version = "0.1.0"
+authors = ["Julian Bieber <j.bieber@patagona.de>"]
+edition = "2018"
+
+[dependencies]
+serde_json = "1"
+serde = "1"
+serde_derive = "1"
+csv = "1.0.7"
